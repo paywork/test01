@@ -24,7 +24,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="AtomConfig" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,7 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597658828017</updated>
       <workItem from="1597658829069" duration="294000" />
-      <workItem from="1597659259371" duration="2109000" />
+      <workItem from="1597659259371" duration="5658000" />
     </task>
     <servers />
   </component>
@@ -51,9 +51,10 @@
       <screen x="38" y="23" width="1754" height="1097" />
     </state>
     <state x="576" y="318" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1057.1920.1057/1920.-1735.1080.1897/38.23.1754.1097@38.23.1754.1097" timestamp="1597660630528" />
-    <state x="280" y="220" key="SettingsEditor" timestamp="1597659370330">
-      <screen x="40" y="23" width="1752" height="1097" />
+    <state x="278" y="220" key="SettingsEditor" timestamp="1597665176285">
+      <screen x="38" y="23" width="1754" height="1097" />
     </state>
+    <state x="278" y="220" key="SettingsEditor/0.-1057.1920.1057/1920.-1735.1080.1897/38.23.1754.1097@38.23.1754.1097" timestamp="1597665176285" />
     <state x="280" y="220" key="SettingsEditor/0.-1057.1920.1057/1920.-1735.1080.1897/40.23.1752.1097@40.23.1752.1097" timestamp="1597659370330" />
   </component>
 </project>
