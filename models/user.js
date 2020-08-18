@@ -27,4 +27,15 @@ const userSchema = mongoose.Schema({
     }
 })
 
-module.exports = mongoose.model("user", userSchema)
+userSchema.methods.comparePassword  = function(plainPassword, cb){
+    //plainPassword 1234566, 암호화된 비밀번호
+    bcrypt.cpare(plainPassword, this.password, function(err, isMatch){
+      cb(null, isMatch)
+    })
+
+
+}
+
+
+const User = mongoose.model('user, userSchema', userSchema)
+module.exports = { User }
